@@ -1,6 +1,6 @@
-#Quête sur les bases de git-github pour la wild code school
+# Quête sur les bases de git-github pour la wild code school
 
-##contenu de la quête:
+## contenu de la quête:
 
 read me before use
 
